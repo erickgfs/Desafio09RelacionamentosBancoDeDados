@@ -18,7 +18,7 @@ export default class CreateProducts1606408531375 implements MigrationInterface {
             type: 'varchar',
           },
           {
-            name: 'prince',
+            name: 'price',
             type: 'numeric',
             precision: 10,
             scale: 2,
